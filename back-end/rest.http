@@ -1,0 +1,10 @@
+//Each api recives a body type parameter
+GET https://backend-deploy-ml.herokuapp.com/getToken 
+
+POST https://backend-deploy-ml.herokuapp.com/auth
+
+POST https://backend-deploy-ml.herokuapp.com/create_user
+
+POST https://backend-deploy-ml.herokuapp.com/addToken
+
+POST https://backend-deploy-ml.herokuapp.com/subToken
